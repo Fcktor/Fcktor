@@ -10,7 +10,7 @@ Soy Ingeniero de Sistemas con experiencia en el desarrollo de software y la inte
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Fcktor&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Fcktor&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fcktor&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Fcktor&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=C%2B%2B,CMake,Swift,C,HTML)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Fcktor&icon=0&color=0)](https://visitcount.itsvg.in)
